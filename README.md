@@ -10,14 +10,14 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/HelloMoto069/Anuruddh_Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/69Moto/anuruddh_portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/HelloMoto069/Anuruddh_Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/69Moto/anuruddh_portfolio/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ProgrammerAnuruddh](https://github.com/HelloMoto069/Anuruddh_Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Anuruddh Singh](https://github.com/HelloMoto069). Thanks!
 
 ## Built With
 
