@@ -3,7 +3,7 @@
   <a href="https://anuruddh-portfolio.netlify.app/" target="_blank">Anuruddh | Portfolio</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="https://github.com/HelloMoto069/Anuruddh_Portfolio/blob/main/demo.jpg" />
+  <img alt="Demo" src="https://github.com/69Moto/anuruddh_portfolio/blob/main/demo.jpg" />
 </div>
 
 <br/>
